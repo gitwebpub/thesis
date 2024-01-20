@@ -1,4 +1,4 @@
-> ExpData(D22, type=1)
+# > ExpData(D22, type=1)
                                           Descriptions       Value
 1                                   Sample size (nrow)        6265
 2                              No. of variables (ncol)         623
